@@ -513,20 +513,21 @@ img {
   display: flex;
   align-items: baseline;
 
+  margin-left: 156px;
+  /*MyFix*/
+
   /*gap: 120px;*/
 
 }
 
 .logo-text {
-
-
-  margin-left: 156px;
-  /*MyFix*/
+  margin-right: 120px;
 }
 
 .footer .logo {
   display: inline-block;
   /*hw03*/
+
 }
 
 .footer a {
@@ -541,7 +542,6 @@ img {
 
 .footer-text {
   /*font-size: 16px;*/
-  margin-right: 120px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;

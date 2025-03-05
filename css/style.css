@@ -518,9 +518,10 @@ img {
 }
 
 .logo-text {
+  margin-right: 120px;
+
   margin-left: 156px;
   /*MyFix*/
-  margin-right: 120px;
 }
 
 .footer .logo {
@@ -550,7 +551,7 @@ img {
 }
 
 .footer-icons {
-  fill: white;
+  fill: #f4f4fd;
 }
 
 .footer-social-title {
